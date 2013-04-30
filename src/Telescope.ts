@@ -38,4 +38,3 @@ export class Telescope implements TelescopeInterface {
     }
 
 }
-
